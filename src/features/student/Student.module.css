@@ -1,0 +1,17 @@
+.header {
+    color: white;
+    font: bolder;
+    font-size: 52px;
+    margin-top: 1em;
+}
+
+.searchFilter {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    padding: 2em;
+}
+
+.input {
+    padding-right: 3em;
+}
